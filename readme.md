@@ -8,11 +8,12 @@
 2. Unzip folder, it will unzip and show 2 files
 3. Open file config.json
 4. *Optional step( for Whatsapp alerts ) - Setup Twilio* - https://www.twilio.com/blog/send-whatsapp-notifications-python-twilio
-5. In config.json, replace values for **</PINCODE TO SEARCH/>, </TWILIO TOKEN/>, </TWILIO SID/>, </WHATSAPP_NUMBER/>** with your values. If TWILIO is not setup then leave <TWILIO***> and <WHATSAPP***> fields as it is.
-6. Save file
-7. Double click covid_alert_whatsapp_exe.exe to run
-8. Script will start searching, as soon as a slot is open it will give Desktop audio alert and Whatsapp notification ( if configured )
-9. For exiting script press: CTRL + C
+5. In config.json, replace values for **</PINCODE TO SEARCH/>, </TWILIO TOKEN/>, </TWILIO SID/>, </WHATSAPP_NUMBER/>**. If TWILIO is not setup then leave <TWILIO***> and <WHATSAPP***> fields as it is.
+6. In config.json also change **min_age_limit** value as 18 or 45 as per your choice
+7. Save file
+8. Double click covid_alert_whatsapp_exe.exe to run
+9. Script will start searching, as soon as a slot is open it will give Desktop audio alert and Whatsapp notification ( if configured )
+10. For exiting script press: CTRL + C
 
 ### Steps to install from Code( Any OS ):
 1. Download code from here( connect with me on https://www.linkedin.com/in/sam04/ to request access to source as people can misuse and overload ) -  https://drive.google.com/file/d/1fCzyZC0CWoy0RtwKeZjGXKfUvqk0WX7v/view?usp=sharing
