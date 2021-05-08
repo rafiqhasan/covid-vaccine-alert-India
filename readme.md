@@ -1,6 +1,6 @@
 ## **COVID-19 Vaccine alerter for India**
 Latest release 1.12 ( 9th May - 12:20 AM IST ):
-- Fixed issue crash issue on some OS versions
+- Fixed crash issue on some OS versions
 - Added option to provide age limit
 
 ## **Features**:
