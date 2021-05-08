@@ -21,7 +21,7 @@ Latest release 1.12 ( 9th May - 12:20 AM IST ):
 9. Script will start searching, as soon as a slot is open it will give Desktop audio alert and Whatsapp notification ( if configured )
 10. For exiting script press: CTRL + C
 
-### Steps to install from Code( Any OS ):
+### Steps to run from Code( Any OS ):
 1. Download code from here( connect with me on https://www.linkedin.com/in/sam04/ to request access to source as people can misuse and overload ) -  https://drive.google.com/file/d/1fCzyZC0CWoy0RtwKeZjGXKfUvqk0WX7v/view?usp=sharing
 2. Install Python 3.6.7+ ( https://www.python.org/ftp/python/3.6.7/python-3.6.7-amd64.exe ) , during installation please checkbox on "Add Python to PATH"
 3. Restart system for Python installation completion
