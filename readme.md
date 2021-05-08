@@ -9,7 +9,7 @@
 3. Open file config.json
 4. *Optional step( for Whatsapp alerts ) - Setup Twilio* - https://www.twilio.com/blog/send-whatsapp-notifications-python-twilio
 5. In config.json, replace values for **</PINCODE TO SEARCH/>, </TWILIO TOKEN/>, </TWILIO SID/>, </WHATSAPP_NUMBER/>**. If TWILIO is not setup then leave <TWILIO***> and <WHATSAPP***> fields as it is.
-6. In config.json also change **min_age_limit** value as 18 or 45 as per your choice
+6. In config.json also change **min_age_limit** value as 18 or 45 as per your choice( Please not system will NOT alert for 45+ centers if you set up limit as 18+ )
 7. Save file
 8. Double click covid_alert_whatsapp_exe.exe to run
 9. Script will start searching, as soon as a slot is open it will give Desktop audio alert and Whatsapp notification ( if configured )
