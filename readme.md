@@ -1,7 +1,8 @@
 ## **COVID-19 Vaccine alerter for India**
 Latest release 1.12 ( 9th May - 12:20 AM IST )
-- Script runs in local
+- Script runs in local, directly from EXE
 - Searches cowin site on basis of pincode every 5s
+- Feature to provide age limit
 - If slot found then gives alert sound( Dekstop alerts ) and  ( Whatsapp alerts ) to configured number
 
 ### Steps to run directly from EXE( Windows 10 ):
