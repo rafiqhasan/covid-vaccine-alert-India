@@ -1,4 +1,4 @@
-## **COVID-19 Vaccine alerter for India**
+## **COVID-19 Vaccine slot alerter( for India )**
 Latest release 1.12 ( 9th May - 12:20 AM IST ):
 - Fixed crash issue on some OS versions
 - Added option to provide age limit
