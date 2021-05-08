@@ -1,6 +1,6 @@
 ## **COVID-19 Vaccine alerter for India**
 - Script runs in local
-- Searches cowin site on basis of pincode every 10s
+- Searches cowin site on basis of pincode every 5s
 - If slot found then gives alert sound( Dekstop alerts ) and  ( Whatsapp alerts ) to configured number
 
 ### Steps to run directly from EXE( Windows 10 ):
