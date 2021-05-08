@@ -29,8 +29,9 @@ Latest release 1.12 ( 9th May - 12:20 AM IST ):
 5. *Optional step( for Whatsapp alerts ) - Setup Twilio* - https://www.twilio.com/blog/send-whatsapp-notifications-python-twilio
 6. For windows users: Open the package folder, in the address bar above type CMD, press enter
 7. Run command: ```pip install -r requirements.txt``` in CMD
-8. Right click and open the file covid_alert_whatsapp.py in NOTEPAD
-9. Replace all variables in script( in notepad in section ```#### Begin: VARIABLES TO CHANGE ####``` ) with your values ex: PinCode, Phone number, Twilio details and SAVE
-10. Double click covid_alert_whatsapp.py to run
-11. SCript will start searching, as soon as a slot is open it will give Desktop audio alert and Whatsapp notification ( if configured )
-12. For exiting script press: CTRL + C
+8. In config.json, replace values for **</PINCODE TO SEARCH/>, </TWILIO TOKEN/>, </TWILIO SID/>, </WHATSAPP_NUMBER/>**. If TWILIO is not setup then leave <TWILIO***> and <WHATSAPP***> fields as it is.
+9. In config.json also change **min_age_limit** value as 18 or 45 as per your choice( Please note system will NOT alert for 45+ centers if you set up limit as 18+ )
+10. Save file
+11. Double click covid_alert_whatsapp.py to run
+12. SCript will start searching, as soon as a slot is open it will give Desktop audio alert and Whatsapp notification ( if configured )
+13. For exiting script press: CTRL + C
