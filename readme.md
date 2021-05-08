@@ -17,7 +17,7 @@
 ### Steps to install from Code( Any OS ):
 1. Download code from here( connect with me on https://www.linkedin.com/in/sam04/ to request access to source as people can misuse and overload ) -  https://drive.google.com/file/d/1fCzyZC0CWoy0RtwKeZjGXKfUvqk0WX7v/view?usp=sharing
 2. Install Python 3.6.7+ ( https://www.python.org/ftp/python/3.6.7/python-3.6.7-amd64.exe ) , during installation please checkbox on "Add Python to PATH"
-3. Restart system for Python installation completion3. 
+3. Restart system for Python installation completion
 4. Unzip file
 5. *Optional step( for Whatsapp alerts ) - Setup Twilio* - https://www.twilio.com/blog/send-whatsapp-notifications-python-twilio
 6. For windows users: Open the package folder, in the address bar above type CMD, press enter
