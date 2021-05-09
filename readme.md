@@ -21,9 +21,9 @@ Get audio alerts on Desktop as well as Whatsapp notification( Twilio needed ), w
 
 ### Steps to run from Code( Any OS ):
 1. Please connect with me on https://www.linkedin.com/in/sam04/ to request access to source as people can misuse and overload CoWin site
-2. Install Python 3.6.7+ , during installation please checkbox on "Add Python to PATH"
-3. Restart system for Python installation completion
-4. Unzip file
+2. Unzip package ZIP
+3. Install Python 3.6.7+ , during installation please checkbox on "Add Python to PATH"
+4. Restart system for Python installation completion
 5. *Optional step( for Whatsapp alerts ) - Setup Twilio* - https://www.twilio.com/blog/send-whatsapp-notifications-python-twilio
 6. For windows users: Open the package folder, in the address bar above type CMD, press enter
 7. Run command: ```pip install -r requirements.txt``` in CMD
