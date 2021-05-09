@@ -11,7 +11,7 @@ Get audio alerts on Desktop as well as Whatsapp notification( Twilio needed ), w
 ### Steps to run directly from EXE( Windows 10 ):
 1. Download ZIP package from here - https://drive.google.com/file/d/1TsuTwMOAGhaY7lLXER38-qxIOX1RUyAA/view?usp=sharing
 2. Unzip file, it will unzip and show 2 files: config.json and covid_alert_whatsapp_exe.exe
-3. *Optional step( for Whatsapp alerts ) - Setup Twilio* - https://www.twilio.com/blog/send-whatsapp-notifications-python-twilio
+3. *Optional step( for Whatsapp alerts ) - Setup Twilio( complex ) - https://www.twilio.com/blog/send-whatsapp-notifications-python-twilio
 4. Right click config.json file and Open-with notepad to edit:
     1. Replace values for **</PINCODE TO SEARCH/>, </TWILIO TOKEN/>, </TWILIO SID/>, </WHATSAPP_NUMBER/>**. If TWILIO is not setup then leave <TWILIO***> and <WHATSAPP***> fields as it is.
     2. Change **min_age_limit** value as 18 or 45 as per your choice( Please note system will NOT alert for 45+ centers if you set up limit as 18+ )
