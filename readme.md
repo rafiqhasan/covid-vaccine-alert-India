@@ -35,9 +35,9 @@ Get audio alerts on Desktop as well as Whatsapp notification( Twilio needed ), w
 13. For exiting script press: CTRL + C
 
 ## Release History:
-Latest release 1.13 ( 9th May - 12:35 PM IST ):
+Release 1.13 ( 9th May - 12:35 PM IST ):
 - Added feature to provide minimum number of slots, on which alert should be given
 
-Latest release 1.12 ( 9th May - 12:20 AM IST ):
+Release 1.12 ( 9th May - 12:20 AM IST ):
 - Fixed crash issue on some OS versions
 - Added option to provide age limit, on which alert should be given
