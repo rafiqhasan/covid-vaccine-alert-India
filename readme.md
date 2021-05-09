@@ -20,7 +20,7 @@ Get audio alerts on Desktop as well as Whatsapp notification( Twilio needed ), w
 6. Double click covid_alert_whatsapp_exe.exe to start search, it will alert whenever slot gets available
 
 ### Steps to run from Code( Any OS ):
-1. Download code from here( connect with me on https://www.linkedin.com/in/sam04/ to request access to source as people can misuse and overload ) -  https://drive.google.com/file/d/1fCzyZC0CWoy0RtwKeZjGXKfUvqk0WX7v/view?usp=sharing
+1. Please connect with me on https://www.linkedin.com/in/sam04/ to request access to source as people can misuse and overload CoWin site
 2. Install Python 3.6.7+ , during installation please checkbox on "Add Python to PATH"
 3. Restart system for Python installation completion
 4. Unzip file
