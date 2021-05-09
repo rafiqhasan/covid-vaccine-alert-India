@@ -10,16 +10,14 @@ Get audio alerts on Desktop as well as Whatsapp notification( Twilio needed ), w
 
 ### Steps to run directly from EXE( Windows 10 ):
 1. Download ZIP package from here - https://drive.google.com/file/d/1TsuTwMOAGhaY7lLXER38-qxIOX1RUyAA/view?usp=sharing
-2. Unzip folder, it will unzip and show 2 files
-3. 4. *Optional step( for Whatsapp alerts ) - Setup Twilio* - https://www.twilio.com/blog/send-whatsapp-notifications-python-twilio
-5. Right config.json file and Open-with notepad to edit:
+2. Unzip file, it will unzip and show 2 files: config.json and covid_alert_whatsapp_exe.exe
+3. *Optional step( for Whatsapp alerts ) - Setup Twilio* - https://www.twilio.com/blog/send-whatsapp-notifications-python-twilio
+5. Right click config.json file and Open-with notepad to edit:
     1. Replace values for **</PINCODE TO SEARCH/>, </TWILIO TOKEN/>, </TWILIO SID/>, </WHATSAPP_NUMBER/>**. If TWILIO is not setup then leave <TWILIO***> and <WHATSAPP***> fields as it is.
     2. Change **min_age_limit** value as 18 or 45 as per your choice( Please note system will NOT alert for 45+ centers if you set up limit as 18+ )
     3. Change **min_slots_for_alert** value as 1 or higher. System will alert when minimum these many slot are available at a location.
-6. Save file
-7. Double click covid_alert_whatsapp_exe.exe to run
-8. Script will start searching, as soon as a slot is open it will give Desktop audio alert and Whatsapp notification ( if configured )
-9. For exiting script press: CTRL + C
+    4. Save file
+6. Double click covid_alert_whatsapp_exe.exe to start search, it will alert whenever slot gets available
 
 ### Steps to run from Code( Any OS ):
 1. Download code from here( connect with me on https://www.linkedin.com/in/sam04/ to request access to source as people can misuse and overload ) -  https://drive.google.com/file/d/1fCzyZC0CWoy0RtwKeZjGXKfUvqk0WX7v/view?usp=sharing
