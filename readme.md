@@ -27,7 +27,7 @@ Get Covid vaccine availability - Desktop alerts as well as optional Whatsapp not
 9. Double click covid_alert_whatsapp_exe.exe follow on-screen instructions for one time auto configuration
 
 ## Release History:
-Release 1.14 ( 10th May - 5:35 PM IST ):
+Release 1.14 ( 10th May - 8:21 PM IST ):
 - Remove complexity of config.json manual setup
 - Made age limit as optional
 - Whatsapp alert also shows the Center name
