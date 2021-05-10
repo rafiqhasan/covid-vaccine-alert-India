@@ -1,5 +1,7 @@
 ## **COVID-19 Vaccine slot alert( for India )**
-Get Covid vaccine availability - Desktop alerts as well as optional Whatsapp notifications( Twilio setup needed ), whenever a vaccine slot gets available for your pincode as per CoWin site. Run directly from EXE with minimum steps and least complexity.
+Get Covid vaccine availability - **Desktop alerts** as well as optional **Whatsapp notifications**( Twilio setup needed ), whenever a vaccine slot gets available for your pincode as per CoWin site. Run directly from EXE with minimum steps and least complexity.
+
+<img src="/scrn.jpg" width="33%">
 
 ## **Features**:
 - Script runs in local, directly from EXE
@@ -29,7 +31,7 @@ Get Covid vaccine availability - Desktop alerts as well as optional Whatsapp not
 ## Release History:
 Release 1.15 ( 10th May - 10:46 PM IST ):
 - Whatsapp alert also shows the available slots at a center
-- Also added feature, alert shows any slot available in future from today's date
+- Also added feature, alert shows any slot available in future from today's date( not just today's availability )
 
 Release 1.14 ( 10th May - 8:21 PM IST ):
 - Remove complexity of config.json manual setup
