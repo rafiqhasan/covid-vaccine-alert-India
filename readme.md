@@ -28,13 +28,13 @@ Get Covid vaccine availability - Desktop alerts as well as optional Whatsapp not
 
 ## Release History:
 Release 1.15 ( 10th May - 10:46 PM IST ):
-- Whatsapp alert also shows the Center name as well as available slots
+- Whatsapp alert also shows the available slots at a center
 - Also added feature, alert shows any slot available in future from today's date
 
 Release 1.14 ( 10th May - 8:21 PM IST ):
 - Remove complexity of config.json manual setup
 - Made age limit as optional
-- Whatsapp alert also shows the Center name as well as available slots
+- Whatsapp alert also shows the Center name
 - Also added feature, alert shows any slot available in future from today's date
 
 Release 1.13 ( 9th May - 12:35 PM IST ):
