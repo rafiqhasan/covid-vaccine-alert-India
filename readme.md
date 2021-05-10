@@ -6,6 +6,7 @@ Get Covid vaccine availability - **Desktop alerts** as well as optional **Whatsa
 ## **Features**:
 - Script runs in local, directly from EXE
 - Searches cowin site on basis of pincode every 5s
+- No need to register on any 3rd party site and share details
 - Feature to provide age limit, on which alert should be given
 - Feature to provide minimum number of slots, on which alert should be given
 - If slot found then gives alert sound( Dekstop alerts ) and  ( Whatsapp alerts ) to configured number
@@ -34,13 +35,12 @@ Release 1.15 ( 10th May - 10:46 PM IST ):
 - Also added feature, alert shows any slot available in future from today's date( not just today's availability )
 
 Release 1.14 ( 10th May - 8:21 PM IST ):
-- Remove complexity of config.json manual setup
-- Made age limit as optional
+- Replaced complexity of config.json manual setup with one time on-screen setup
+- Made age limit as optional filter
 - Whatsapp alert also shows the Center name
-- Also added feature, alert shows any slot available in future from today's date
 
 Release 1.13 ( 9th May - 12:35 PM IST ):
-- Added feature to provide minimum number of slots, on which alert should be given
+- Added feature to provide minimum number of slots as filter, on which alert should be given
 
 Release 1.12 ( 9th May - 12:20 AM IST ):
 - Fixed crash issue on some OS versions
