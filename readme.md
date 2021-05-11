@@ -1,7 +1,7 @@
 ## **COVID-19 Vaccine slot alert( for India )**
 Get Covid vaccine availability - **Desktop alerts** as well as optional **Whatsapp notifications**( Twilio setup needed ), whenever a vaccine slot gets available for your pincode as per CoWin site. Run directly from EXE with minimum steps and least complexity.
 
-<img src="/scrn.jpg" width="33%"/>
+<img src="/scrn_shot.jpg" width="33%"/>
 
 **screenshot is generated only for reference*
 
