@@ -32,6 +32,9 @@ Get Covid vaccine availability - **Desktop alerts** as well as optional **Whatsa
 9. Double click covid_alert_whatsapp_exe.exe follow on-screen instructions for one time auto configuration
 
 ## Release History:
+Release 1.16 ( 14th May - 02:11 PM IST ):
+- Created a simple UI for the application
+
 Release 1.15 ( 11th May - 10:46 PM IST ):
 - Whatsapp alert also shows the available slots at a center
 - Also added feature, alert shows any slot available in future from today's date( not just today's availability )
