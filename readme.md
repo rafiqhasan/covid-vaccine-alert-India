@@ -12,13 +12,13 @@ Get Covid vaccine availability - **Desktop alerts** as well as optional **Whatsa
 - Feature to provide age limit, on which alert should be given
 - Feature to provide minimum number of slots, on which alert should be given
 - If slot found then gives alert sound( Dekstop alerts ) and  ( Whatsapp alerts ) to configured number
+- *For Twilio Whatsapp setup, refer this link* - https://www.twilio.com/blog/send-whatsapp-notifications-python-twilio
 
 ### Steps to run directly from EXE( Windows 10 ):
 1. Download ZIP package from here - https://github.com/rafiqhasan/covid_vaccine_alert_IN/raw/main/exe_package.zip
 2. Unzip file, it will unzip and show 1 file: covid_alert_whatsapp_exe.exe
-3. *Optional step( for Whatsapp alerts ) - Setup Twilio( complex )* - https://www.twilio.com/blog/send-whatsapp-notifications-python-twilio
-4. Double click covid_alert_whatsapp_exe.exe and follow on-screen instructions for one time auto configuration
-5. Script will alert automatically when a slot is available
+3. Double click covid_alert_whatsapp_exe.exe and follow on-screen instructions for one time auto configuration
+4. Script will alert automatically when a slot is available
 
 ### Steps to run from Code( Any OS ):
 1. Please connect with me on https://www.linkedin.com/in/sam04/ to request access to source as people can misuse and overload CoWin site
@@ -32,7 +32,7 @@ Get Covid vaccine availability - **Desktop alerts** as well as optional **Whatsa
 9. Double click covid_alert_whatsapp_exe.exe follow on-screen instructions for one time auto configuration
 
 ## Release History:
-Release 1.16 ( 14th May - 02:11 PM IST ):
+Release 1.16 ( 14th May - 02:11 AM IST ):
 - Created a simple UI for the application
 
 Release 1.15 ( 11th May - 10:46 PM IST ):
