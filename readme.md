@@ -14,7 +14,7 @@ Get Covid vaccine availability - **Desktop alerts** as well as optional **Whatsa
 - If slot found then gives alert sound( Dekstop alerts ) and  ( Whatsapp alerts ) to configured number
 - *For Twilio Whatsapp setup, refer this link* - https://www.twilio.com/blog/send-whatsapp-notifications-python-twilio
 
-### Steps to run directly from EXE( Windows 10 ):
+### Steps to run( Windows 10 ):
 1. Download ZIP package from here - https://github.com/rafiqhasan/covid_vaccine_alert_IN/raw/main/exe_package.zip
 2. Unzip file, it will unzip and show 1 file: covid_alert_whatsapp_exe.exe
 3. Double click covid_alert_whatsapp_exe.exe and follow on-screen instructions for one time auto configuration
