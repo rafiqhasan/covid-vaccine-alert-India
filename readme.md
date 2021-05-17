@@ -32,6 +32,9 @@ Get Covid vaccine availability - **Desktop alerts** as well as optional **Whatsa
 9. Double click covid_alert_whatsapp_exe.exe follow on-screen instructions for one time auto configuration
 
 ## Release History:
+Release 1.17 ( 14th May - 02:35 PM IST ):
+- Added option for State and District ID search
+
 Release 1.16 ( 14th May - 02:11 AM IST ):
 - Created a simple UI for the application
 
