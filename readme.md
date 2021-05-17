@@ -7,7 +7,7 @@ Get Covid vaccine availability - **Desktop alerts** as well as optional **Whatsa
 
 ## **Features**:
 - Script runs in local, directly from EXE
-- Searches cowin site on basis of pincode every 5s
+- Searches cowin site on basis of pincode / district every 5s
 - No need to register on any 3rd party site and share details
 - Feature to provide age limit, on which alert should be given
 - Feature to provide minimum number of slots, on which alert should be given
