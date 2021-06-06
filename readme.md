@@ -32,6 +32,10 @@ Get Covid vaccine availability - **Desktop alerts** as well as optional **Whatsa
 9. Double click covid_alert_whatsapp_exe.exe follow on-screen instructions for one time auto configuration
 
 ## Release History:
+Release 1.18 ( 06 June - 09:30 PM IST ):
+- Added Dose-1 and Dose-2 filters
+- Added filters for vaccine type
+
 Release 1.17 ( 19th May - 08:59 PM IST ):
 - Added logic to bypass cache on API
 - Handled the Slot1 and Slot2 logic from API
