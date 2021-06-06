@@ -10,7 +10,7 @@ Get Covid vaccine availability - **Desktop alerts** as well as optional **Whatsa
 - Searches cowin site on basis of pincode / district every 5s
 - No need to register on any 3rd party site and share details
 - Feature to provide age limit, on which alert should be given
-- Feature to provide minimum number of slots, on which alert should be given
+- Feature to provide minimum number of slots, vaccine type, dose type, on which alert should be given
 - If slot found then gives alert sound( Dekstop alerts ) and  ( Whatsapp alerts ) to configured number
 - *For Twilio Whatsapp setup, refer this link* - https://www.twilio.com/blog/send-whatsapp-notifications-python-twilio
 
